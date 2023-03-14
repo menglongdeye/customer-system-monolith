@@ -3,10 +3,10 @@
          xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 https://maven.apache.org/xsd/maven-4.0.0.xsd">
     <modelVersion>4.0.0</modelVersion>
     <groupId>com.lcl.galaxy</groupId>
-    <artifactId>cs-dependency</artifactId>
+    <artifactId>distribution-cs-dependency</artifactId>
     <version>0.0.1-SNAPSHOT</version>
     <packaging>pom</packaging>
-    <name>cs-dependency</name>
+    <name>distribution-cs-dependency</name>
 
     <properties>
         <revision>1.6.2-snapshot</revision>

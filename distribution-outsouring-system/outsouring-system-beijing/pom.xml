@@ -4,13 +4,13 @@
     <modelVersion>4.0.0</modelVersion>
     <parent>
         <groupId>com.lcl.galaxy</groupId>
-        <artifactId>outsouring-system</artifactId>
+        <artifactId>distribution-outsouring-system</artifactId>
         <version>0.0.1-SNAPSHOT</version>
         <relativePath>../pom.xml</relativePath>
     </parent>
 
     <groupId>com.lcl.galaxy</groupId>
-    <artifactId>outsouring-system-beijing</artifactId>
+    <artifactId>distribution-outsouring-system-beijing</artifactId>
     <version>0.0.1-SNAPSHOT</version>
     <name>${project.artifactId}</name>
     <description>北京外包客服系统</description>

@@ -4,16 +4,18 @@
     <modelVersion>4.0.0</modelVersion>
 
     <groupId>com.lcl.galaxy</groupId>
-    <artifactId>custemsystem-basic</artifactId>
+    <artifactId>custemsystem-distribution</artifactId>
     <version>0.0.1-SNAPSHOT</version>
     <packaging>pom</packaging>
-    <name>customersystem-monolith</name>
+    <name>customersystem-distribution</name>
 
     <modules>
-        <module>cs-dependency</module>
-        <module>customer-system</module>
-        <module>cs-infrastructure-utility</module>
-        <module>outsouring-system</module>
+        <module>distribution-cs-dependency</module>
+        <module>distribution-customer-system</module>
+        <module>distribution-customer-service</module>
+        <module>distribution-intergation-service</module>
+        <module>distribution-cs-infrastructure-utility</module>
+        <module>distribution-outsouring-system</module>
     </modules>
 
 

@@ -4,11 +4,11 @@
     <modelVersion>4.0.0</modelVersion>
     <parent>
         <groupId>com.lcl.galaxy</groupId>
-        <artifactId>custemsystem-basic</artifactId>
+        <artifactId>custemsystem-distribution</artifactId>
         <version>0.0.1-SNAPSHOT</version>
         <relativePath>../pom.xml</relativePath>
     </parent>
-    <artifactId>cs-infrastructure-utility</artifactId>
+    <artifactId>distribution-cs-infrastructure-utility</artifactId>
     <version>0.0.1-SNAPSHOT</version>
     <name>${project.artifactId}</name>
     <description>工具类项目</description>
